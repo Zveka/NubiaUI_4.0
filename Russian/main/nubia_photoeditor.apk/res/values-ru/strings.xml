@@ -336,7 +336,7 @@
     <string name="fileisexist">Дублировать имя файла. Пожалуйста, повторите попытку.</string>
     <string name="filenameisnull">Очистить имя файла. Пожалуйста, введите имя файла.</string>
     <string name="make_gif">Создать GIF</string>
-    <string name="gif_unrewind">Назаду</string>
+    <string name="gif_unrewind">Назад</string>
     <string name="gif_rewind">Вперед</string>
     <string name="filename_invalid">Не удалось назвать: Имя содержит недопустимые символы</string>
     <string name="filenotexist">Нет файлов для создания GIF</string>

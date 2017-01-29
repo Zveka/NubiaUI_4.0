@@ -259,7 +259,7 @@
     <string name="folder_frontcamera">Фронтальная камера</string>
     <string name="folder_panocamera">Панорамная камера</string>
     <string name="save_picture">Сохранить</string>
-    <string name="save_ok">Подвердить сохранение</string>
+    <string name="save_ok">Подтвердить сохранение</string>
     <string name="no_content_picture">Нет изображения</string>
     <string name="no_support_type">Тип файла не поддерживается!</string>
     <string name="photos">Фото</string>
