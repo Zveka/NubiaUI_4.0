@@ -133,8 +133,8 @@
     <string name="folder_imported">Импортированные</string>
     <string name="folder_screenshot">Скриншоты</string>
     <string name="help">Справка</string>
-    <string name="module_gallery">Облако для Галереи</string>
-    <string name="module_gallery_description">Облако для Галереи</string>
+    <string name="module_gallery">Галереи</string>
+    <string name="module_gallery_description">Галереи</string>
     <string name="video_share">Передать</string>
     <string name="video_edit">Редактировать</string>
     <string name="video_encrypt">Шифровать</string>

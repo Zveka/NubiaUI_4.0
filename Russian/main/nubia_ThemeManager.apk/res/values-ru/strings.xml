@@ -158,7 +158,7 @@
     <string name="rank_hot_newlist_title">Новинки</string>
     <string name="rank_list_title">Список ТОП</string>
     <string name="more_subject">Назад</string>
-    <string name="permissions_info">Приложение \"Темы\" получит доступ к вашей сети и памяти, продолжить?</string>
+    <string name="permissions_info">Приложение \"Темы\" получит доступ к интернету и памяти, продолжить?</string>
     <string name="input_question_title">Пожалуйста, опишите Ваш вопрос</string>
     <string name="question_hint">Пожалуйста, напишите отзыв. Он позволит нам улучшить наше приложение. Спасибо за вашу поддержку! (400 букв)</string>
     <string name="contact_title">Ваш способ связи</string>

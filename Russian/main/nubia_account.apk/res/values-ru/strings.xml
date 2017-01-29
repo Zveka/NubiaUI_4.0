@@ -73,8 +73,8 @@
     <string name="section_login_loginfail_text_both">Недействительные имя пользователя или пароль, попробуйте позднее.</string>
     <string name="section_login_loginfail_text_pwonly">Недействительный пароль, попробуйте снова.</string>
     <string name="section_login_by_email_button">Логин</string>
-    <string name="section_login_username">введите логин</string>
-    <string name="section_login_password">введите пароль</string>
+    <string name="section_login_username">Введите логин</string>
+    <string name="section_login_password">Введите пароль</string>
     <string name="section_login_by_email_create_new_account"><a href="#">Создать новую учетную запись</a></string>
     <string name="section_login_by_email_forget_password"><a href="#">Забыли?</a></string>
     <string name="section_login_by_email_username_error">Пожалуйста введите имя пользователя</string>
@@ -331,7 +331,7 @@ Username is %1$1s
     <string name="account_details_area">Регион</string>
     <string name="account_details_area_unset">Сбросить</string>
     <string name="account_details_change_password">Изменить пароль</string>
-    <string name="account_details_change_avatar">Редактировать портрет</string>
+    <string name="account_details_change_avatar">Изменить аватар</string>
     <string name="account_details_account_logout">Выход</string>
     <string name="logout_dialog_eamil_address_title">E-mail:</string>
     <string name="logout_dialog_phone_number_title">Мобильный:</string>

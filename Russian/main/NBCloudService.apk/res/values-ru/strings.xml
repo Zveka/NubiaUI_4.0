@@ -108,7 +108,7 @@
     <string name="cloud_sync_backup_text">Синхронизация облака и бэкапа настроек</string>
     <string name="no_account_found">Приложение учетной записи nubia не существует</string>
     <string name="default_space_text">0,00GB</string>
-    <string name="expand_progress_text">Загрузка. Пожалуйста, подождите</string>
+    <string name="expand_progress_text">Загрузка...</string>
     <string name="input_dialog_hint">Введите свой пароль</string>
     <string name="find_password"><u>Забыли пароль</u></string>
     <string name="password_empty">Пароль не может быть пустым</string>
@@ -127,8 +127,8 @@
     <string name="center_expand_space_tips">Заполните свои данные учетной записи, чтобы увеличить пространство до 2TB</string>
     <string name="other">Другое</string>
     <string name="vip">VIP-обслуживание</string>
-    <string name="center_tips_syncing">Синхронизация…</string>
-    <string name="center_sync_suffix">Синхронизация</string>
+    <string name="center_tips_syncing">Синхронизация...</string>
+    <string name="center_sync_suffix">&#160;синхронизировано</string>
     <string name="center_update_busy">Слишком много пользовательских обновлений. Повторите попытку позже.</string>
     <string name="center_net_error">Сбой сети</string>
     <string name="center_check_error">Произошла ошибка при проверке версии</string>

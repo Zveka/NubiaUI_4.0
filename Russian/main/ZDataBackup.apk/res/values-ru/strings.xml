@@ -444,7 +444,7 @@
     <string name="img_download_selected_more_button_title">Еще</string>
     <string name="img_download_selected_tv_title">Выберите изображения для загрузки</string>
     <string name="ui_backup_settings">Настройки бэкапа</string>
-    <string name="ui_backup_content">Содержание бэкапа</string>
+    <string name="ui_backup_content">Разделы бэкапа</string>
     <string name="ui_restore_content">Выберите данные для восстановления</string>
     <string name="ui_backup_devices">Устройство бэкапа</string>
     <string name="ui_schedule_backup_settings">Бэкап по таймеру</string>
@@ -455,7 +455,7 @@
     <string name="restore">Восстановить</string>
     <string name="restore_content">Восстановить содержание</string>
     <string name="backup_settings">Настройки бэкапа</string>
-    <string name="backup_content">Содержание бэкапа</string>
+    <string name="backup_content">Разделы бэкапа</string>
     <string name="backup_devices">Выбор устройства бэкапа</string>
     <string name="device_phone_storage">Память телефона</string>
     <string name="device_sd_card">SD-карта</string>
@@ -474,7 +474,7 @@
     <string name="ui_refresh">Обновить</string>
     <string name="file_size_info">Использовано места:</string>
     <string name="schedule_backup_when_backup_currently_exists">График бэкапа был отменен в связи с выполнением другого бэкапа</string>
-    <string name="schedule_backup_no_content">График бэкапа был отменен в связи с отсутствием выбранного содержания</string>
+    <string name="schedule_backup_no_content">График бэкапа был отменен в связи с отсутствием выбранных разделов</string>
     <string name="schedule_backup_unavailable_device">График бэкапа был отменен в связи с недоступностью устройства</string>
     <string name="delete_backup_file_title">Удалить бэкап</string>
     <string name="delete_backup_file_msg">Вы хотите удалить выбранный бэкап?</string>
@@ -488,7 +488,7 @@
     <string name="launcher_index_cloud_title">Облачный бэкап</string>
     <string name="account_name">Нет входа</string>
     <string name="restore_quickly">Авторизация не произведена</string>
-    <string name="no_account_found">Страница загрузки учетной записи nubia не существует.</string>
+    <string name="no_account_found">Страница загрузки учетной записи Nubia не существует.</string>
     <string name="data_compress">Сжатие данных</string>
     <string name="cloud_space_info">Размер облачного хранилища</string>
     <string name="baidu_login_failed">Не удалось войти, проверьте сетевое соединение.</string>
@@ -543,8 +543,8 @@
     <string name="storage_reset_msg">не найдено устройство для хранения данных. проверьте соединение устройств или выполните перезагрузку</string>
     <string name="backup_type_personal_info">Контакты, Сообщения и др.</string>
     <string name="backup_type_system_data">Системные настройки</string>
-    <string name="backup_type_system_info">Системные Настройки, рингтоны и др.</string>
-    <string name="backup_type_app_info">Пакеты и данные</string>
+    <string name="backup_type_system_info">Системные настройки, рингтоны и др.</string>
+    <string name="backup_type_app_info">Настройки и данные приложений</string>
     <string name="backup_type_media_data">Данные мультимедиа</string>
     <string name="backup_type_media_info">Галерея, Аудиозаписи, Видеозаписи</string>
     <string name="backup_audio_title">Аудио</string>
@@ -621,8 +621,8 @@
     <string name="backup_default_zero">0</string>
     <string name="ui40_backing_up_activity_stop">стоп</string>
     <string name="ui40_backup_sure">конечно</string>
-    <string name="select_local_backup_content">Выберите \"Бэкап данных\", чтобы сохранить данные в памяти</string>
-    <string name="select_cloud_backup_content">Выберите \"Облачный бэкап\", чтобы сохранить данные в облако</string>
+    <string name="select_local_backup_content">Выберите разделы</string>
+    <string name="select_cloud_backup_content">Выберите разделы</string>
     <string name="ui40_all_select">Выбрать все</string>
     <string name="ui40_no_select">Снять все выделения</string>
     <string name="backuping_backupgroup">Бэкап в фоновом режиме</string>
