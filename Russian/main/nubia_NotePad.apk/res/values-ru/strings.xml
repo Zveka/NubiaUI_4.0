@@ -123,7 +123,7 @@
     <string name="notepad_upgrade_title_message">Найдена новая версия, вы хотите выполнить обновление?</string>
     <string name="notepad_start_target_app_error">Не удается найти Приложение, работу которого можно завершить, пожалуйста, запустите его.</string>
     <string name="notepad_copy_text_error">Не удалось скопировать.</string>
-    <string name="notepad_preview_menu_call">Вызов</string>
+    <string name="notepad_preview_menu_call">Разговор</string>
     <string name="notepad_preview_menu_send_message">Отправить сообщение</string>
     <string name="notepad_preview_menu_send_email">Отправить по электронной почте</string>
     <string name="notepad_preview_menu_open_url">Открыть адрес</string>
@@ -173,12 +173,11 @@
     <string name="date_format_pm">РМ</string>
     <string name="notepad_data_backup_title">Выполняется бэкап данных блокнота</string>
     <string name="notepad_data_restore_title">Восстановление данных блокнота</string>
-    <string name="notepad_data_backup_name">Записи</string>
+    <string name="notepad_data_backup_name">Запись</string>
     <string name="notepad_data_backup_error1">Выполнить чтение базы данных блокнота не удалось</string>
     <string name="notepad_data_backup_error2">Не удалось создать файл бэкапа блокнота</string>
     <string name="notepad_data_restore_error1">Выполнить чтение файла бэкапа блокнота не удалось</string>
     <string name="notepad_data_restore_error2">Выполнить чтение базы данных блокнота не удалось</string>
-    <string name="notepad_editor_record_icon">|S@*t}</string>
     <string name="select_all">Все</string>
     <string name="select_no">Отменить</string>
     <string name="ignore">Пропустить</string>
