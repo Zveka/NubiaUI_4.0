@@ -464,8 +464,8 @@
     <string name="pref_restore_dialog_confirm">ОК</string>
     <string name="pref_restore_dialog_cancel">Отмена</string>
     <string name="property_safety_alert">Внимание! Следите за безопасностью!</string>
-    <string name="card_one_send_message">Отправка SIM-1</string>
-    <string name="card_two_send_message">Отправка SIM-2</string>
+    <string name="card_one_send_message">Отправка с SIM-1</string>
+    <string name="card_two_send_message">Отправка с SIM-2</string>
     <string name="message_delivered">Доставлено</string>
     <string name="no_services">Нет сигнала</string>
     <string name="reply_sms">Ответить</string>

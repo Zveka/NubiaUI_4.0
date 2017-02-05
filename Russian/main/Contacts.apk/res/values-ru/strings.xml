@@ -229,7 +229,7 @@
     <string name="recentCalls_trashVoicemail">Удалить голосовое сообщение</string>
     <string name="recentCalls_shareVoicemail">Поделиться</string>
     <string name="recentCalls_empty">Список вызовов пуст.</string>
-    <string name="clearCallLogConfirmation_title">Удаление данных</string>
+    <string name="clearCallLogConfirmation_title">Удалить из журнала?</string>
     <string name="clearCallLogConfirmation">Журнал звонков будет очищен.</string>
     <string name="clearCallLogProgress_title">Очистка списка вызовов...</string>
     <string name="clearFrequentsConfirmation_title">Очистить список популярных контактов?</string>
@@ -934,9 +934,9 @@
     <string name="menu_more">Ещё</string>
     <string name="menu_scan">Сканировать визитку</string>
     <string name="send_sms">Отправить SMS</string>
-    <string name="calllog_select_item_title">Удалить записи</string>
+    <string name="calllog_select_item_title">Выбрано:&#160;</string>
     <string name="temp_contact_detail_phone">телефон</string>
-    <string name="temp_contact_detail_email">email</string>
+    <string name="temp_contact_detail_email">e-mail</string>
     <string name="temp_contact_detail_website">веб-сайт</string>
     <string name="temp_contact_detail_history">история вызовов</string>
     <string name="temp_contact_call_incoming">Входящий вызов</string>
