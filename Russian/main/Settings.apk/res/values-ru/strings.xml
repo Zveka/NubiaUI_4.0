@@ -2859,11 +2859,11 @@
  чтобы предоставить вам с бесплатное послепродажное обслуживание (Управление устройством через терминал платформы управления, установленный China Mobile, получение дистанционных настроек параметров устройства и обновление программного обеспечения в любое удобное время), необходимо зарегистрировать Ваше устройство в терминале платформы управления. После регистрации, только один раз бесплатно на Ваше устройство прийдет текстовое сообщение (текстовое сообщение не будет отправлено в время роуминга в ГК/Макао/Тайвань или на международном уровне)."</string>
     <string name="filter_apps_oninternal">Внутренняя память</string>
     <string name="additional_bootanimation_info_title">Информация о бут анимации</string>
-    <string name="card_one_id">1</string>
-    <string name="card_two_id">2</string>
-    <string name="card_network_2G">2G</string>
-    <string name="card_network_3G">3G</string>
-    <string name="card_network_4G">4G</string>
+    <string name="card_one_id">&#160;</string>
+    <string name="card_two_id">&#160;</string>
+    <string name="card_network_2G">&#160;</string>
+    <string name="card_network_3G">&#160;</string>
+    <string name="card_network_4G">&#160;</string>
     <string name="guide_close">ОК</string>
     <string name="white_service_list_guide_tips">Вы можете поместить сервис в белый список, чтобы он не был удален по ошибке</string>
     <string name="reset_service_white_list">восстановить белый список</string>
