@@ -241,7 +241,7 @@
     <string name="nubia_call_note_cancel_save">Не удалось сохранить</string>
     <string name="nubia_call_note_toast">Достигнуто максимальное количество</string>
     <string name="nubia_call_note_notifycation_photo">Значок-пиктограмма записи о звонке</string>
-    <string name="nubia_bg_call_notification_incall">  Щелкните на вызов, чтобы вернуть вызов</string>
+    <string name="nubia_bg_call_notification_incall">Нажмите для возврата</string>
     <string name="nubia_notification_incoming_call">Входящий вызов</string>
     <string name="nubia_keyguard_send_sms">Ответить в СМС</string>
     <string name="respond_via_sms_custom_message">Ваш ответ…</string>
