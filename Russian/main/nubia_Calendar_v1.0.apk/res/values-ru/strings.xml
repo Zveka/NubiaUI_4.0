@@ -18,9 +18,9 @@
     <string name="calendar_refresh">Обновить</string>
     <string name="show_day_view">Показать день</string>
     <string name="agenda_view">Повестка дня</string>
-    <string name="day_view">Дни</string>
-    <string name="week_view">Нед.</string>
-    <string name="month_view">Мес.</string>
+    <string name="day_view">День</string>
+    <string name="week_view">Неделя</string>
+    <string name="month_view">Месяц</string>
     <string name="event_view">Просмотр события</string>
     <string name="event_create">Событие</string>
     <string name="event_edit">Изменить событие</string>
@@ -129,7 +129,7 @@
     <string name="my_birth">"День Рождения"</string>
     <string name="birthday_append">", День Рождения"</string>
     <string name="year_view">Год</string>
-    <string name="menu_more">Еще</string>
+    <string name="menu_more">Больше данных</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_today">Сегодня</string>
     <string name="descript_label">Описание события</string>
@@ -222,6 +222,13 @@
     <string name="event_close">Закрыть событие</string>
     <string name="event_label">Название</string>
     <string name="search_city_hint">Поиск часового пояса</string>
+    <string name="cta_warning_ok">ОК</string>
+    <string name="cta_warning_text">"1. В процессе использования приложению требуется разрешение для доступа к сети, в том числе мобильных данных и Wi-Fi сетей.
+2. Используется доступ к вашей геолокации и местоположению.
+3. Используется доступ к вашим контактам, электронной почте.
+4. Используется личная информация, в том числе SMS и MMS."</string>
+    <string name="cta_warning">Пользовательское соглашение</string>
+    <string name="cta_warning_cancel">Отмена</string>
     <string name="preferences_reminder_method_radiobutton1">Однократное событие</string>
     <string name="preferences_reminder_method_radiobutton2">Каждый день</string>
     <string name="preferences_reminder_method_radiobutton3">Каждый будний день (Пн-Пт)</string>
