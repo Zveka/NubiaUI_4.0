@@ -76,7 +76,7 @@
     <string name="dlg_message">Установить этот файл как рингтон Вашего телефона</string>
     <string name="dlg_yes">да</string>
     <string name="dlg_no">нет</string>
-    <string name="internal_media">Системные</string>
+    <string name="internal_media">Система</string>
     <string name="external_media">Музыка</string>
     <string name="record_media">Диктофон</string>
     <string name="picker_title">Рингтон</string>

@@ -3166,16 +3166,16 @@
     <string name="system_default">по умолчанию</string>
     <string name="sensor_adjust_finger">Калибровка датчика отпечатков пальцев</string>
     <string name="dual_instance_settings">Копия приложения</string>
-    <string name="dual_instance_select_app">Выберите дублированную копию</string>
-    <string name="dual_rename_app_title">Переименуйте дублированную копию</string>
+    <string name="dual_instance_select_app">Выберите приложение для копии</string>
+    <string name="dual_rename_app_title">Новое имя для копии</string>
     <string name="dual_instance_summary">Создание копии приложения</string>
     <string name="dual_start_title">Создать копию</string>
-    <string name="dual_settings_title">Создается независимая копия приложения. Вы можете использовать разные учетные записи одновременно с помощью данной функции.</string>
-    <string name="dual_instance_ok">Завершить дублированную копию</string>
-    <string name="no_dual_instance">К сожалению, нет дублированных приложений</string>
-    <string name="dual_app_has_dualable">Приложение имеет дублированную копию</string>
-    <string name="dual_support_title">Поддержка установленного дублированного приложения</string>
-    <string name="dual_list_has_dualed">Дублировано</string>
+    <string name="dual_settings_title">Создается независимая копия приложения. С помощью данной функции Вы можете использовать одновременно 2 учётные записи.</string>
+    <string name="dual_instance_ok">Создать копию</string>
+    <string name="no_dual_instance">К сожалению, нет приложений для копирования</string>
+    <string name="dual_app_has_dualable">Для данного приложения уже создана копия</string>
+    <string name="dual_support_title">Создание копии приложения</string>
+    <string name="dual_list_has_dualed">Создана копия</string>
     <string name="desc_split_screen_record">"В разделите экран на две области и запустите разные приложения в каждой из областей.
 Можно моментально ответить на сообщение в нижней части экрана с помощью функции быстрого разделения экрана."</string>
     <string name="desc_split_screen_record_for_nx529">Разделите экран для выполнения двух задач одновременно, например играя в игру или смотря видео вы можете ответить на сообщение.</string>

@@ -129,7 +129,7 @@
     <string name="my_birth">"День Рождения"</string>
     <string name="birthday_append">", День Рождения"</string>
     <string name="year_view">Год</string>
-    <string name="menu_more">Больше данных</string>
+    <string name="menu_more">Ещё</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_today">Сегодня</string>
     <string name="descript_label">Описание события</string>
@@ -199,7 +199,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_action_bar_home_description">Перейти на главную</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
-    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_menu_overflow_description">Больше параметров</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_search_hint">Поиск...</string>
