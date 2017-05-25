@@ -64,7 +64,7 @@ ISO: 1600
 Ручной фокус:бесконечный
 Общее время выдержки: 15,450 секунд (около 4.3ч)"</string>
     <string name="dng_specification_introduction_tip">Короткое введение</string>
-    <string name="dng_specification_introduction_content">DNG - это популярный формат сохранения оригинальных изображений. Он позволяет сохранить множество информации изображения, и использовать ее для дальнейшей обработки.Вместе с этим, он обеспечивает лучшее качество изображения.</string>
+    <string name="dng_specification_introduction_content">DNG - это популярный формат сохранения оригинальных изображений. Он позволяет сохранить множество информации изображения, и использовать ее для дальнейшей обработки. Вместе с этим, он обеспечивает лучшее качество изображения.</string>
     <string name="dng_specification_path_title">Путь сохранения</string>
     <string name="dng_specification_path">Внутреннее хранилище/DCIM/Camera/Dng</string>
     <string name="dng_specification_path1_title">формат вывода</string>
@@ -89,8 +89,8 @@ ISO: 1600
 2. Двигайте объект клонирования, сделайте 5 фото.
 3. Система автоматически опознает движущийся объект и выполнит регистрацию и комбинирование изображения.
 4. В интерфейсе редактирования, используйте кисть, чтобы размазать участок, который вы хотите отобразить."</string>
-    <string name="clone_specification_photo1">Клонируйте несколько или множество человек на одной сцене</string>
-    <string name="clone_specification_photo2">Клонируйте несколько или множество человек на одной сцене</string>
+    <string name="clone_specification_photo1">Клонируйте несколько или множество людей на одной сцене</string>
+    <string name="clone_specification_photo2">Клонируйте несколько или множество людей на одной сцене</string>
     <string name="pro_specification_tobbar_title">PRO</string>
     <string name="pro_specification_title">PRO</string>
     <string name="pro_specification_introduction_tip">Короткое введение для камеры nubia</string>
@@ -672,7 +672,7 @@ ISO: 1600
     <string name="back_light_off_set">Сфокусироваться с закрытым экраном</string>
     <string name="back_light_off_set_tip">"Вы уверены, что хотите отключить экран?
  Это не повлияет на фокусирование и вы можете снова запустить экран."</string>
-    <string name="settings_have_restored">Настройки возобновлены</string>
+    <string name="settings_have_restored">Настройки сброшены</string>
     <string name="pref_camera_about_key_title">О Камере</string>
     <string name="check_version">Проверить обновления</string>
     <string name="version">Версия</string>

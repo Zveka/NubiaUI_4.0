@@ -290,12 +290,12 @@
     <string name="editor_looks_arts">Искусство</string>
     <string name="effects_miniature">Миниатюра</string>
     <string name="effects_fisheye">Рыбий глаз</string>
-    <string name="effects_emboss">Разблокировка</string>
+    <string name="effects_emboss">Рельеф</string>
     <string name="effects_lomo">Ломо</string>
-    <string name="effects_prague_three">Муча</string>
-    <string name="effects_newsketch">Описание Цвета</string>
-    <string name="effects_sketch">Набросок</string>
-    <string name="effects_gray_scale">Черно-Белое</string>
+    <string name="effects_prague_three">Мокко</string>
+    <string name="effects_newsketch">Зарисовка</string>
+    <string name="effects_sketch">Скетч</string>
+    <string name="effects_gray_scale">Ч/Б</string>
     <string name="effects_pretty_nature">Природа</string>
     <string name="effects_pretty_moonlight">Лунный Свет</string>
     <string name="effects_pretty_pink">Розовый</string>

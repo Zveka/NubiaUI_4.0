@@ -412,8 +412,8 @@
     <string name="menu_import_export">Импорт/экспорт</string>
     <string name="dialog_import_export">Импорт/экспорт контактов</string>
     <string name="dialog_import">Импорт контактов</string>
-    <string name="dialog_import1">Импортировать контакты Sim1</string>
-    <string name="dialog_import2">Импортировать контакты Sim2</string>
+    <string name="dialog_import1">Импортировать контакты SIM-1</string>
+    <string name="dialog_import2">Импортировать контакты SIM-2</string>
     <string name="menu_share">Отправить</string>
     <string name="share_via">Способ отправки</string>
     <string name="share_error">Не удалось передать данные.</string>
@@ -919,8 +919,8 @@
     <string name="MultiSelectorFragment.no_select_member_return">Нет выбранных контактов, вернуться.</string>
     <string name="delete_group_dialog_message_new">Группа будет удалена, контакты останутся в адресной книге.</string>
     <string name="yesterday">Вчера</string>
-    <string name="set_voicemail">Установить голосовую почту</string>
-    <string name="dialog_voicemail_not_ready_message2">Голосовая почта не установлена, хотите установить?</string>
+    <string name="set_voicemail">Настроить голосовую почту</string>
+    <string name="dialog_voicemail_not_ready_message2">Голосовая почта не настроена, задать настройки?</string>
     <string name="contact_is_gone">Контакт был удален, невозможно сохранить</string>
     <string name="system_group_title">Системная группа</string>
     <string name="dialpad_key_keyboard">Клавиатура</string>
@@ -1076,8 +1076,8 @@ Telecom"</string>
     <string name="description_image_button_plus">плюс</string>
     <string name="recent_time">Недавние</string>
     <string name="menu_timeClear">Очистить данные времени</string>
-    <string name="main_list_long_click_menu_starred">Посмотреть</string>
-    <string name="main_list_long_click_menu_cancel_starred">Удалить</string>
+    <string name="main_list_long_click_menu_starred">В любимые</string>
+    <string name="main_list_long_click_menu_cancel_starred">Удалить из любимых</string>
     <string name="main_list_long_click_menu_edit">Изменить</string>
     <string name="main_list_long_click_menu_delete">Удалить</string>
     <string name="not_enough_space_save_contact">Недостаточно памяти, контакты не могут быть сохранены.</string>
@@ -1098,6 +1098,9 @@ Telecom"</string>
     <string name="call_in">входящий</string>
     <string name="not_support_sim_contact">Контакты карты не поддерживают сохранение данной информации</string>
     <string name="showFilterPhones">С номерами телефонов</string>
+    <string name="batch_delete_calllog">Выбрать вызовы для удаления из журнала</string>
+    <string name="delete_calllog">Удалить из журнала звонков</string>
+    <string name="showFilterPhones">Только контакты с телефоном</string>
     <string name="remove_contact">Удалить</string>
     <string name="contact_tooltip">Кликните на изображении, чтобы увидеть все номера, или нажмите и удерживайте, чтобы изменить порядок.</string>
     <string name="description_dismiss">Закрыть</string>
@@ -1108,4 +1111,21 @@ Telecom"</string>
     <string name="volte_video">видео</string>
     <string name="volte_not_available">Доступно только в сети 4G VOLTE.</string>
     <string name="gallery_uninstalled">Галерея не существует</string>
+    <string name="search_online">Поиск по желтым страницам</string>
+    <string name="second">сек.</string>
+    <string name="not_connected">Нет соединения</string>
+    <string name="too_many_receivers">Можно выбрать не более 100 номеров.</string>
+    <string name="no_choose_vcard_file">Визитки выбирать нельзя.</string>
+    <string name="default_number_has_been_set">Установлен номер по умолчанию</string>
+    <string name="default_number_has_been_cleared">Номер по умолчанию удален</string>
+    <string name="add_to_black_list">В \"Чёрный список\"</string>
+    <string name="remove_from_black_list">Удалить из \"Чёрного списка\"</string>
+    <string name="certainly_add_to_black_list">Добавить %d \"Чёрный список\" ? После это все звонки и SMS будут заблокированы.</string>
+    <string name="certainly_remove_from_black_list">Удалить %d из \"Чёрного списка\"?</string>
+    <string name="etc">и другие номера</string>
+    <string name="already_exist_in_black_list">already existed in white list, it will be removed from white list after adding.</string>
+    <string name="add_to_black_list_sucess">Добавлен в \"Чёрный список\"</string>
+    <string name="add_to_black_list_failed">Не удалось внести в \"Чёрный список\"</string>
+    <string name="remove_from_black_list_sucess">Удалено из \"Чёрного списка\"</string>
+    <string name="remove_from_black_list_failed">Не удалось удалить из \"Чёрного списка\"</string>
 </resources>

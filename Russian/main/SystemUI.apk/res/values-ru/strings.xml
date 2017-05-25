@@ -290,7 +290,7 @@
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="speed_bump_explanation">Показать менее важные оповещения</string>
     <string name="notification_tap_again">Нажмите ещё раз, чтобы открыть</string>
-    <string name="keyguard_unlock">Проведите вверх для разблокировки</string>
+    <string name="keyguard_unlock">↑ Разблокировать ↑</string>
     <string name="phone_hint">Чтобы открыть приложение \"Телефон\", пролистните вправо</string>
     <string name="camera_hint">Чтобы включить камеру, пролистните влево</string>
     <string name="interruption_level_none">Не беспокоить</string>
@@ -750,7 +750,8 @@
     <string name="keyguard_security_delete_button">Удалить</string>
     <string name="supersnap_guide_one_summary_1">Короткое нажатие</string>
     <string name="supersnap_guide_one_summary_2">быстрый снимок экрана /</string>
-    <string name="supersnap_guide_one_summary_3">Длинное нажатие</string>
+    <string name="supersnap_guide_one_summary_3">"
+Длинное нажатие - "</string>
     <string name="supersnap_guide_one_summary_4">супер-скриншот</string>
     <string name="supersnap_guide_one_button_text">Я знаю</string>
     <string name="supersnap_guide_one_title">Комбинация кнопок питания и громкости</string>

@@ -193,7 +193,7 @@
     <string name="slideshow_effect_turn">Поворот</string>
     <string name="gif">GIF</string>
     <string name="encrypt">Зашифровать</string>
-    <string name="encrypt_failed">Сбой защиты</string>
+    <string name="encrypt_failed">Сбой шифрования</string>
     <string name="encrypt_some_failed">Преобразование выполнено, часть выполнить не удалось.</string>
     <string name="cut_to_target_folder">Переместить в конечную папку</string>
     <string name="create_new_folder">Новая папка</string>

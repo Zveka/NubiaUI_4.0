@@ -394,7 +394,7 @@
     <string name="option_insert_phrase">Шаблоны ответов</string>
     <string name="option_record_video">Снять видео</string>
     <string name="option_add_video">Видео</string>
-    <string name="option_record_sound">Записать аудио</string>
+    <string name="option_record_sound">Диктофон</string>
     <string name="option_add_subject">Тема</string>
     <string name="option_add_local_audio">Аудио</string>
     <string name="option_add_ringtone">Рингтон</string>

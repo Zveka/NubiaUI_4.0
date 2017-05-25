@@ -551,9 +551,9 @@
     <string name="hello_world">Привет мир!</string>
     <string name="settings_string">Настройки</string>
     <string name="settings_switch_professional_name">Экспертный режим</string>
-    <string name="settings_copyright_text">2010-2016 Все права защищены</string>
+    <string name="settings_copyright_text">2010-2017. Все права защищены</string>
     <string name="settings_version_detect">Обновить</string>
-    <string name="settings_version">Текущая версия: </string>
+    <string name="settings_version">Текущая версия:&#160;</string>
     <string name="settings_version_not_found">Номер версии не найден</string>
     <string name="settings_about_hint_message">Найдена новая версия, обновить сейчас?</string>
     <string name="settings_about_hint_title">Информация об обновлении</string>
