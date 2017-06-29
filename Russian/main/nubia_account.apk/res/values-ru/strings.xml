@@ -245,7 +245,7 @@ Username is %1$1s
     <string name="no_sim_card">SD-карта не обнаружена</string>
     <string name="no_sim_card_message">Рекомендается вставить SIM-карту, чтобы зарегистрировать учетную запись nubia (она может быть использована для бэкапа и восстановления ваших личных данных в телефоне).</string>
     <string name="detect_sim_again">Повторное обнаружение SIM</string>
-    <string name="skip">Далее</string>
+    <string name="skip">Пропустить</string>
     <string name="input_password_empty">Пароль пуст</string>
     <string name="new_password_empty">Новый пароль пуст</string>
     <string name="password_not_enough">Не достаточно длинный пароль</string>
@@ -470,4 +470,8 @@ Username is %1$1s
     <string name="confirm_pswd">Подтвердить</string>
     <string name="input_phone_or_email_format_error">Неверный номер мобильного или адрес e-mail</string>
     <string name="str_pptv_vip" />
+    <string name="str_no_safe_password">Слабый пароль, рекомендуется изменить</string>
+    <string name="str_tips_safe_password">Пароль должен быть из 6-16 символов и содержать как минимум 1 прописную букву, 1 строчную букву и 1 цифру</string>
+    <string name="str_error_format_password">Некорректный формат пароля</string>
+    <string name="str_tips_safe_password_2134">Пароль должен быть из 6-16 символов, и содержать комбинацию цифр, букв или символов</string>
 </resources>

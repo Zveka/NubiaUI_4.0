@@ -1049,7 +1049,7 @@ Telecom"</string>
     <string name="recent_card_title">Недавние</string>
     <string name="quickcontact_transparent_view_description">Кликните, чтобы вернуться назад</string>
     <string name="quickcontact_add_phone_number">Добавить номер телефона</string>
-    <string name="quickcontact_add_email">Добавить адрес электронной почты</string>
+    <string name="quickcontact_add_email">Добавить адрес e-mail</string>
     <string name="message_from_you_prefix">Я: %s</string>
     <string name="menu_addtoContacts">Добавить</string>
     <string name="menu_quickcontact_newContacs">Создать</string>
@@ -1061,11 +1061,11 @@ Telecom"</string>
     <string name="header_nickname_entry">Псевдоним</string>
     <string name="header_im_entry">Чат</string>
     <string name="header_event_entry">Мероприятия</string>
-    <string name="expanding_entry_card_view_see_more">ещё</string>
-    <string name="expanding_entry_card_view_see_less">Меньше</string>
-    <string name="expanding_entry_card_view_see_all">Смотреть все</string>
+    <string name="expanding_entry_card_view_see_more">раскрыть</string>
+    <string name="expanding_entry_card_view_see_less">свернуть</string>
+    <string name="expanding_entry_card_view_see_all">смотреть все</string>
     <string name="description_video_call">Начать видеозвонок</string>
-    <string name="text_email_entry">Электронное письмо</string>
+    <string name="text_email_entry">E-mail</string>
     <string name="text_phone_entry">Мобильный</string>
     <string name="detail_reject_header">Отклоненные</string>
     <string name="edit_before_call">Редактировать номер до вызова</string>
@@ -1100,7 +1100,6 @@ Telecom"</string>
     <string name="showFilterPhones">С номерами телефонов</string>
     <string name="batch_delete_calllog">Выбрать вызовы для удаления из журнала</string>
     <string name="delete_calllog">Удалить из журнала звонков</string>
-    <string name="showFilterPhones">Только контакты с телефоном</string>
     <string name="remove_contact">Удалить</string>
     <string name="contact_tooltip">Кликните на изображении, чтобы увидеть все номера, или нажмите и удерживайте, чтобы изменить порядок.</string>
     <string name="description_dismiss">Закрыть</string>

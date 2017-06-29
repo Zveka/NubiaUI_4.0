@@ -60,7 +60,7 @@
     <string name="nubia_back_button_label">Назад</string>
     <string name="nubia_next_button_label">Следующий</string>
     <string name="nubia_skip_button_label">Пропустить</string>
-    <string name="common_ok">ok</string>
+    <string name="common_ok">ОК</string>
     <string name="common_cancel">Отмена</string>
     <string name="common_account_token_invalid">Информация учетной записи устарела</string>
     <string name="common_cloud_token_invalid">Данные для входа устарели. Повторите попытку</string>
@@ -98,7 +98,7 @@
     <string name="user_center_app_name">Центр пользователя</string>
     <string name="cloud_browse_user_info">Ник</string>
     <string name="cloud_browse_user_info_sub">Информация об учетной записи</string>
-    <string name="cloud_browse_yun_file">Облачный диск</string>
+    <string name="cloud_browse_yun_file">Облако</string>
     <string name="cloud_browse_recycle_bin">Мусор</string>
     <string name="cloud_browse_recycle_bin_sub">Данные, удаленные в течение последних 60 дней, могут быть восстановлены</string>
     <string name="cloud_service_space">Облако</string>
@@ -154,7 +154,7 @@
     <string name="refresh_fail">Не удалось обновить</string>
     <string name="refresh_success">Обновление завершено</string>
     <string name="sync_service_ok">ОК</string>
-    <string name="sync_service_data">Данные</string>
+    <string name="sync_service_data">&#160;данных</string>
     <string name="sync_contact_app_name">Синхронизировать контакты</string>
     <string name="app_contact_recyclebin">Удалить контакты</string>
     <string name="contacts_name">Контакты</string>
@@ -163,9 +163,9 @@
     <string name="footer_hint_no_more">Больше данных нет</string>
     <string name="clear_history">Очистить</string>
     <string name="dialog_title">Пожалуйста, операцию для выполнения</string>
-    <string name="restore_to_contact">Восстановить контакты</string>
+    <string name="restore_to_contact">Восстановить контакт</string>
     <string name="make_a_dial">Вызов</string>
-    <string name="send_a_message">Обмен сообщениями</string>
+    <string name="send_a_message">Написать сообщение</string>
     <string name="tips">"Вы уверены, что хотите удалить записи?
  Облачный менеджер будет удален синхронически после очистки."</string>
     <string name="no_data_found">Нет данных о контактах, удаленных в течение последних 60 дней</string>

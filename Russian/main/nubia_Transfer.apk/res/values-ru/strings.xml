@@ -50,7 +50,7 @@
     <string name="resend_dialog_title">Не удалось выполнить передачу, предлагается повторная передача</string>
     <string name="str_regular">Файл</string>
     <string name="connection_new_interrupt">Передача оставшихся%1$данных не завершена, вы можете продолжить передавать данные на старые сотовые телефоны.</string>
-    <string name="slpash_srceen_explanation">Контакты, текстовые сообщения, история звонков, изображения и аудио данные передаются с вашего старого телефона в новый.</string>
+    <string name="slpash_srceen_explanation">Контакты, текстовые сообщения, журнал звонков, изображения и аудио данные передаются с Вашего старого телефона в новый.</string>
     <string name="download_selector_sdcard">Память телефона</string>
     <string name="download_selector_sdcard0">Встроенная память</string>
     <string name="download_selector_label">Выберите папку для хранения</string>
@@ -197,7 +197,7 @@
     <string name="upgrade_title_message">Обнаружена новая версия, хотите обновить?</string>
     <string name="title_activity_boot_guide">Вспомагательное руководство</string>
     <string name="hello_world">Приложение Привет,мир!</string>
-    <string name="str_skip">Пропуск</string>
+    <string name="str_skip">Пропустить</string>
     <string name="str_enter_flycow">Передать сейчас</string>
     <string name="title_continue_transfer">Непрерывная передача</string>
     <string name="str_transfering_wifihot_close">Точка доступа Wi-Fi экстренно отключилась, вы хотите включить ее?</string>

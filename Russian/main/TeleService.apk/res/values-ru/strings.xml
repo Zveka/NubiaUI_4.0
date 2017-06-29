@@ -656,7 +656,7 @@
     <string name="enable_video_calling_dialog_settings">Настройки сети</string>
     <string name="enable_video_calling_dialog_close">Закрыть</string>
     <string name="sim_label_emergency_calls">Экстренные вызовы</string>
-    <string name="sim_description_emergency_calls">Только экстренные вызовы</string>
+    <string name="sim_description_emergency_calls">Экстренные вызовы</string>
     <string name="sim_description_default">SIM-карта, слот; %s</string>
     <string name="contactScreen">Добавить/Редактировать контакт SIM</string>
     <string name="exportContactScreen">Экспорт контактов из телефона на SIM-карту</string>

@@ -163,6 +163,19 @@
         <item>Месяц</item>
         <item>Повестка дня</item>
     </string-array>
+    <string-array name="reminder_minutes_labels_all_day">
+        <item>Сегодня в 9:00</item>
+        <item>За день в 9:00</item>
+        <item>За 2 дня в 9:00</item>
+        <item>За неделю в 9:00</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels_all_day_of_birthday">
+        <item>Нет</item>
+        <item>Сегодня в 9:00</item>
+        <item>За день в 9:00</item>
+        <item>За 2 дня в 9:00</item>
+        <item>За неделю в 9:00</item>
+    </string-array>
     <string-array name="more_menu_item">
         <item>Перейти к дате</item>
         <item>Перечень мероприятий</item>

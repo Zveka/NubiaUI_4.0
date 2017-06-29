@@ -102,15 +102,15 @@
     <string name="status_bar_title">FM радио</string>
     <string name="sleeptimer_expired">Время автоматического отключения радио</string>
     <string name="fm_remove_msg">Удалить текущую станцию из списка станций?</string>
-    <string name="has_choose_station">Выбрать станцию %s</string>
+    <string name="has_choose_station">Выбрано: %s</string>
     <string name="channel_name">Новая станция</string>
     <string name="channel_edit">Изменить</string>
     <string name="dlg_addedit_station_name">Имя</string>
     <string name="dlg_addedit_station_frequency">Частота</string>
-    <string name="edit_channel">Изменить станция</string>
+    <string name="edit_channel">Изменить станцию</string>
     <string name="invalid_input">Последний неверный ввод, допустимое значение 0 или 5.</string>
     <string name="invalid_frequency">Недопустимая частота для текущего положения. Канал не из данного региона.</string>
     <string name="user_note_message">\"FM Радио\" получит доступ к информации вашего телефона и записей, продолжить?</string>
-    <string name="select_all">Выбрать все</string>
+    <string name="select_all">Все</string>
     <string name="unselect_all">Ничего не выбирать</string>
 </resources>

@@ -758,4 +758,8 @@ ISO: 1600
     <string name="multi_exposure_symmetry_info">Собрать два в один</string>
     <string name="multi_exposure_taken_num_text">Взято %1$d снимков</string>
     <string name="multi_exposure_seekbar_text">Настроить прозрачность</string>
+    <string name="pref_water_mark_title2">Добавляет на фото знак by Nubia</string>
+    <string name="pref_water_mark_time_title2">Добавляет на фото водяной знак</string>
+    <string name="pref_water_mark_title">Водяной знак</string>
+    <string name="pref_water_mark_time_title">Временной водяной знак</string>
 </resources>

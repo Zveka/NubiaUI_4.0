@@ -32,7 +32,7 @@
     <string name="radioInfo_menu_getPDP">Получить список PDP</string>
     <string name="radioInfo_service_in">В зоне обслуживания</string>
     <string name="radioInfo_service_out">Вне зоны обслуживания</string>
-    <string name="radioInfo_service_emergency">Только экстренные вызовы</string>
+    <string name="radioInfo_service_emergency">Экстренные вызовы</string>
     <string name="radioInfo_service_off">Радио отключено</string>
     <string name="radioInfo_roaming_in">Роуминг</string>
     <string name="radioInfo_roaming_not">Отключен</string>
@@ -1070,7 +1070,7 @@
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
-    <string name="tethering_help_button_text">Спр.</string>
+    <string name="tethering_help_button_text">\?</string>
     <string name="network_settings_title">Мобильные сети</string>
     <string name="manage_mobile_plan_title">Тарифный план</string>
     <string name="sms_application_title">Приложение для SMS</string>
@@ -1496,8 +1496,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2859,11 +2859,11 @@
  чтобы предоставить вам с бесплатное послепродажное обслуживание (Управление устройством через терминал платформы управления, установленный China Mobile, получение дистанционных настроек параметров устройства и обновление программного обеспечения в любое удобное время), необходимо зарегистрировать Ваше устройство в терминале платформы управления. После регистрации, только один раз бесплатно на Ваше устройство прийдет текстовое сообщение (текстовое сообщение не будет отправлено в время роуминга в ГК/Макао/Тайвань или на международном уровне)."</string>
     <string name="filter_apps_oninternal">Внутренняя память</string>
     <string name="additional_bootanimation_info_title">Информация о бут анимации</string>
-    <string name="card_one_id">&#160;</string>
-    <string name="card_two_id">&#160;</string>
-    <string name="card_network_2G">&#160;</string>
-    <string name="card_network_3G">&#160;</string>
-    <string name="card_network_4G">&#160;</string>
+    <string name="card_one_id"> </string>
+    <string name="card_two_id"> </string>
+    <string name="card_network_2G"> </string>
+    <string name="card_network_3G"> </string>
+    <string name="card_network_4G"> </string>
     <string name="guide_close">ОК</string>
     <string name="white_service_list_guide_tips">Вы можете поместить сервис в белый список, чтобы он не был удален по ошибке</string>
     <string name="reset_service_white_list">восстановить белый список</string>
@@ -2871,8 +2871,8 @@
     <string name="unlock_quick_application_title">Быстрые настройки</string>
     <string name="notification_center_app_name">Центр оповещений</string>
     <string name="notification_center_lockscreen">Блокировка экрана</string>
-    <string name="notification_center_multi_lockscreen">"Локскрин"</string>
-    <string name="notification_center_multi_dropdown">"Шторка"</string>
+    <string name="notification_center_multi_lockscreen">Локскрин</string>
+    <string name="notification_center_multi_dropdown">Шторка</string>
     <string name="notification_center_breathlight">Индикация</string>
     <string name="notification_center_dropdown">Строка уведомлений</string>
     <string name="notification_center_show_headsup">Предупреждение</string>
@@ -3242,8 +3242,7 @@
     <string name="fingerprint_chooselock_title">Выбор запасной разблокировки</string>
     <string name="reset_app_to_default_alert">Подтвердите сброс настроек приложений</string>
     <string name="power_discharge_duration">%s%%</string>
-    <string name="powersave_title_summary">Интеллектуальный режим
-энергосбережения</string>
+    <string name="powersave_title_summary">Интеллектуальный режим энергосбережения</string>
     <string name="powersave_title_sub_summary">Поддержание баланса аппаратного и программного энергопотребления для эффективного продления работы от батареи</string>
     <string name="power_control_title">Управление энергосбережением</string>
     <string name="power_low_battery_mode">Режим энергосбережения</string>
@@ -3280,7 +3279,7 @@
     <string name="edge_click_desc">Возвращение назад</string>
     <string name="red_packet_settings_title">Подарки для китайцев</string>
     <string name="one_key_red_packet_tile">Один ключ для подарка</string>
-    <string name="one_key_red_packet_summary">"Специальное уведомление только для WeChat"</string>
+    <string name="one_key_red_packet_summary">Специальное уведомление только для WeChat</string>
     <string name="voice_notification_when_locked_title">Включить звуковое оповещение при блокировке</string>
     <string name="voice_notification_when_locked_summary">Голосовые уведомления</string>
     <string name="can_not_receive_notification">Не получаете уведомлений?</string>

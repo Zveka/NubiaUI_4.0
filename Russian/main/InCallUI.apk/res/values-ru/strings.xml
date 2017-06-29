@@ -218,7 +218,7 @@
     <string name="nubia_record_notification_title">Запись сохранена</string>
     <string name="nubia_record_notification_msg">Путь к файлу: %s</string>
     <string name="nubia_call_record_save_change">SD-карта не доступна, было перенесено в память телефона</string>
-    <string name="nubia_call_record_sample_prefix">Вызов</string>
+    <string name="nubia_call_record_sample_prefix">Звонок</string>
     <string name="nubia_conference_call_title">Конференц-звонок</string>
     <string name="nubia_change_to_phone_storage">Памяти SD-карты не достаточно, переключитесь на память телефона</string>
     <string name="nubia_storage_not_enough">Недостаточно памяти, невозможно записать</string>

@@ -357,6 +357,7 @@
     <string name="begin_with_dot">Это скрытый файл, имя которого начинается с точки. Вы уверены, что для переименования с таким именем?</string>
     <string name="set_ringtone">установить как рингтон</string>
     <string name="phone_storage">Память телефона</string>
+    <string name="saving">Импортирование...</string>
     <string name="sdcard_storage">SD-карта</string>
     <string name="storage_not_enough">Заканчивается свободное место</string>
     <string name="file_system_error">Ошибка файловой системы</string>

@@ -26,7 +26,7 @@
     <string name="picture_no_support">Нет поддерживаемых картинок</string>
     <string name="unlock_tip_into_amin">Двойной тап для информации</string>
     <string name="detail_setting">Настройка</string>
-    <string name="detail_share">Отпр.</string>
+    <string name="detail_share">Отправить</string>
     <string name="nubia_capital_on">ВКЛ</string>
     <string name="nubia_capital_off">ВЫКЛ.</string>
     <string name="nubia_time_picker_dialog_title">Настройка времени</string>
